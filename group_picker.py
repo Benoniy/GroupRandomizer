@@ -3,7 +3,6 @@ import random
 members = ["Andrew",
            "Arun",
            "Alexis",
-           "Ayaz",
            "Ben",
            "Beth",
            "Dunni",
