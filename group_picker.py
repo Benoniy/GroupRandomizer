@@ -11,7 +11,6 @@ members = ["Andrew",
            "Jose",
            "Oleg",
            "Saverio",
-           "Surosh",
            "William",
            "Ula"
            ]
